@@ -1,0 +1,44 @@
+.about {
+  padding: 5rem 2rem;
+  background: #fff;
+}
+
+.about h2 {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+}
+
+.aboutContent {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.aboutText {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 1.1rem;
+  color: #666;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.skillItem {
+  background: #f8f9fa;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  font-weight: 500;
+  color: #007bff;
+  border: 2px solid #007bff;
+  transition: all 0.3s ease;
+}
+
+.skillItem:hover {
+  background: #007bff;
+  color: white;
+} 
