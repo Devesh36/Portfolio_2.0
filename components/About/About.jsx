@@ -106,9 +106,9 @@ const About = () => {
           <h3 className="text-3xl font-bold text-center mb-10">My Journey</h3>
           <div className="space-y-8">
             <TimelineItem 
-              year="2024"
-              title="Frontend Developer Intern"
-              company="Prodigy Infotect"
+              year="2025"
+              title="SWE Intern"
+              company="Adani"
               description=""
             />
             <TimelineItem 
@@ -119,7 +119,7 @@ const About = () => {
             />
             <TimelineItem 
               year="2022"
-              title="12th"
+              title="HSC"
               company="Pg Junior College of Science"
               description=""
             />
